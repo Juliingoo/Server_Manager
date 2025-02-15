@@ -1,4 +1,4 @@
-🪻Administrador para el proceso de un servidor orientado a servidores de Minecraft Java.
+# 🪻Administrador para el proceso de un servidor orientado a servidores de Minecraft Java.
 
 
 ✅ Este administrador permite establecer una hora de reinicio diaria para tu servidor ⏱️.
