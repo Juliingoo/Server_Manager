@@ -1,9 +1,9 @@
 # 🪻Administrador para el proceso de un servidor orientado a servidores de Minecraft Java.
 
 
-✅ Este administrador permite establecer una hora de reinicio diaria para tu servidor ⏱️.
+- ✅ Este administrador permite establecer una hora de reinicio diaria para tu servidor ⏱️.
 
-✅ Vuelve a iniciar tu servidor en caso de crasheo 🔄️.
+- ✅ Vuelve a iniciar tu servidor en caso de crasheo 🔄️.
 
 
 📖 Instrucciones de uso:
