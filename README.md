@@ -12,8 +12,8 @@
  ```
  java -jar Server_Manager.jar
  ```
-4. En un primera instancia, solo se creará el archivo "Server_Manager.properties" para configurar una serie de parámetros (nombre del archivo .jar a ejecutar, hora de reinicio, etc). Debes abrirlo y configurarlo (se establecen una configuración predeterminada, pero puede ser incorrecta para tí).
-5. Vuelve a ejecutar el archivo y ya debería funcionar todo. Si ocurre algún error, revisa el archivo "Server_Manager.properties" 👀.
+3. En un primera instancia, solo se creará el archivo ```Server_Manager.properties``` para configurar una serie de parámetros (nombre del archivo .jar a ejecutar, hora de reinicio, etc). Debes abrirlo y configurarlo (se establecen una configuración predeterminada, pero puede ser incorrecta para tí).
+4. Vuelve a ejecutar el archivo y ya debería funcionar todo. Si ocurre algún error, revisa el archivo ```Server_Manager.properties``` 👀.
 
 📒 Nota:
 
